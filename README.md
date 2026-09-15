@@ -4,7 +4,7 @@ Evaluating two linear-programming approaches to constructing an optimal share po
 
 ## The brief
 
-Build a portfolio across four sectors — Healthcare, Technology, Communication Services and Financials - balancing expected return against risk category (R1 low / R2 medium / R3 high, based on standard deviation of monthly returns). Two optimisation approaches were compared: a **Linear Programming (LP)** model allocating proportionally across all 8 stocks, and an **Integer Linear Programming (ILP)** model selecting a fixed subset of 5.
+Build a portfolio across four sectors Healthcare, Technology, Communication Services and Financials - balancing expected return against risk category (R1 low / R2 medium / R3 high, based on standard deviation of monthly returns). Two optimisation approaches were compared: a **Linear Programming (LP)** model allocating proportionally across all 8 stocks, and an **Integer Linear Programming (ILP)** model selecting a fixed subset of 5.
 
 <p align="center">
   <img src="images/02-risk-return-scatter.png" width="600" alt="Scatter plot of risk versus return for all 8 stocks, coloured by whether selected in the ILP portfolio">
